@@ -1,0 +1,6 @@
+C:\Users\carlo\source\repos\WCFsolucion\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\carlo\source\repos\WCFsolucion\Cliente\bin\Debug\Cliente.exe
+C:\Users\carlo\source\repos\WCFsolucion\Cliente\bin\Debug\Cliente.pdb
+C:\Users\carlo\source\repos\WCFsolucion\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\WCFsolucion\Cliente\obj\Debug\Cliente.exe
+C:\Users\carlo\source\repos\WCFsolucion\Cliente\obj\Debug\Cliente.pdb

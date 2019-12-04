@@ -1,0 +1,6 @@
+C:\Users\carlo\source\repos\WCFsolucion\WCF\bin\WCF.dll.config
+C:\Users\carlo\source\repos\WCFsolucion\WCF\bin\WCF.dll
+C:\Users\carlo\source\repos\WCFsolucion\WCF\bin\WCF.pdb
+C:\Users\carlo\source\repos\WCFsolucion\WCF\obj\Debug\WCF.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\WCFsolucion\WCF\obj\Debug\WCF.dll
+C:\Users\carlo\source\repos\WCFsolucion\WCF\obj\Debug\WCF.pdb
