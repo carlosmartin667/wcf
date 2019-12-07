@@ -19,6 +19,7 @@ namespace Cliente
 
 
 
+
             MiServicios.CompositeType oData = new MiServicios.CompositeType();
             oData.BoolValue = true;
 
